@@ -1,3 +1,11 @@
+# FlowPrint Modified Datasets
+Link Tor and Firefox data 
+https://wpi0-my.sharepoint.com/:f:/g/personal/jhiggins_wpi_edu/EmWWygKnmnFMnp0ls2b4Em8BqXiVZabRwZCM2m4OA5DqMQ?e=iOZuYS
+
+Link to Mobile data (the us.tgz set)
+https://recon.meddle.mobi/cross-market.html
+
+
 # FlowPrint
 This repository contains the code for FlowPrint by the authors of the NDSS FlowPrint [1] paper [[PDF]](https://dx.doi.org/10.14722/ndss.2020.24412).
 Please [cite](#References) FlowPrint when using it in academic publications.
